@@ -87,8 +87,8 @@ Anyways I have done some projects which I have made public, go on browse my repo
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhanuj10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhanuj10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhanujgunas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhanujgunas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -96,7 +96,7 @@ Anyways I have done some projects which I have made public, go on browse my repo
 # 🔝 Top Contributed Repo
 ###
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=bhanuj10&limit=10&theme=dracula&combine_all_yearly_contributions=true"  alt="stats graph"  />
+  <img src="https://github-contributor-stats.vercel.app/api?username=bhanujgunas&limit=10&theme=dracula&combine_all_yearly_contributions=true"  alt="stats graph"  />
 </div>
 
 
@@ -107,7 +107,7 @@ Anyways I have done some projects which I have made public, go on browse my repo
 
 #  My Contributions 😁
 ###
-<img src="https://raw.githubusercontent.com/bhanuj10/bhanuj10/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/bhanujgunas/bhanujgunas/output/snake.svg" alt="Snake animation" />
 
 ###
 ---
