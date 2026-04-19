@@ -39,7 +39,7 @@ Anyways I have done some projects which I have made public, go on browse my repo
 ###
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhanujgunas&theme=react-dark)
 
-<img src="https://raw.githubusercontent.com/bhanujgunas/bhanujgunas/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/bhanujgunas/bhanujgunas/output/snake-dark.svg" alt="Snake animation" />
 
 ###
 
